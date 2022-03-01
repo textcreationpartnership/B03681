@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mill'd lead, demonstrated to be a better and more durable covering for buildings, &amp;c. and above 20 per cent. cheaper than cast-lead can be ... and also for sheathing ships against the worm, better, and above cent. per cent. cheaper than the ordinariest wood-sheathing can be.</title>
+            <author>T. H. (Thomas Hale)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03681</idno>
+            <idno type="STC">Wing H265B</idno>
+            <idno type="STC">ESTC R233603</idno>
+            <idno type="EEBO-CITATION">53299105</idno>
+            <idno type="OCLC">ocm 53299105</idno>
+            <idno type="VID">179865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179865)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2807:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mill'd lead, demonstrated to be a better and more durable covering for buildings, &amp;c. and above 20 per cent. cheaper than cast-lead can be ... and also for sheathing ships against the worm, better, and above cent. per cent. cheaper than the ordinariest wood-sheathing can be.</title>
+                  <author>T. H. (Thomas Hale)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed November 20. 1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Caption title.</note>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sheet-lead --  Early works to 1800.</term>
+               <term>Lead industry and trade --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:179865:1" rendition="simple:additions"/>
+            <head>
+               <hi>MILL'D LEAD, DEMONSTRATED</hi> To be a <hi>better</hi> and more durable <hi>Covering</hi> for Buildings, <hi>&amp;c.</hi> and above <hi>20 per Cent.</hi> cheaper than <hi>Caſt-Lead</hi> can be; ſuppoſing that to be <hi>16 <abbr>s</abbr>
+               </hi> and this but <hi>13 <abbr>s</abbr>
+               </hi> a Hundred.</head>
+            <head type="sub">And alſo for <hi>Sheathing</hi> Ships against the <hi>Worm,</hi> better, and above <hi>Cent. per Cent.</hi> cheaper than the ordinarieſt <hi>Wood-Sheathing</hi> can be.</head>
+            <p>TO prove the firſt, only two <hi>Axioms,</hi> or moral Truths (which will need no probation) are required to be granted, by which the Matters of Fact evi<g ref="char:EOLhyphen"/>dent in the Caſe may be examined.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Axiom </seg>1</label> That the heat of the <hi>Sun</hi> being allowed to be the common Cauſe of drawing, and conſequently of cockling and cracking a <hi>Lead-Covering,</hi> the Beams thereof, which fall with <hi>equal</hi> force upon an <hi>unequal</hi> Body (ſuch as a Sheet of <hi>Cast-Lead</hi> is) muſt draw the <hi>thinner</hi> and weaker parts more than the <hi>thicker</hi> and ſtronger.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Axiom </seg>2</label> That if a <hi>Plumber,</hi> or at leaſt-wiſe two of the Chief <hi>Maſter-Plumbers</hi> in <hi>London,</hi> joining together, ſhall (upon a Wager or Trial of Skill, wherein their In<g ref="char:EOLhyphen"/>tereſt is highly concerned) undertake to caſt <hi>Sheets</hi> of <hi>Lead,</hi> not <hi>thinner</hi> through<g ref="char:EOLhyphen"/>out the <hi>whole Sheet,</hi> than the Size required, and very little <hi>thicker</hi> in any place, they will caſt as well, and as near <hi>equality,</hi> and the Size given as they can; and that the <hi>Sheets</hi> caſt by them in ſuch a Trial, or at leaſt in two ſuch Trials, ought to be taken for the greateſt certainty, Standard, and <hi>beſt Caſting</hi> any <hi>Plumber</hi> can pretend to; or at leaſt-wiſe that ſuch Caſting is much better than what any Cuſtomer in the common courſe of their Trade can expect from them. This being granted.</p>
+            <p>From the firſt <hi>Axiom</hi> it follows, That if the <hi>Plumber</hi> could Caſt exactly equal to the <hi>thinner</hi> parts of his <hi>Sheet,</hi> his <hi>Caſt-Lead</hi> would make a better <hi>Covering</hi> than to be thicker in one place than in another; for that the <hi>thicker</hi> and <hi>ſtronger</hi> parts re<g ref="char:EOLhyphen"/>ſiſting the <hi>Sun beams</hi> more than the <hi>thinner</hi> and <hi>weaker,</hi> thoſe parts muſt ſtay behind whilſt the <hi>weaker</hi> move; which motion by degrees cockles and cracks the <hi>Sheet;</hi> whereas if the <hi>Sheet</hi> were exactly equal as the <hi>Mill'd-Lead</hi> is, it would by the <hi>equal force</hi> falling thereon, move or ſtay <hi>equally</hi> as the <hi>Mill'd-Lead</hi> does, where no other Cauſe or Accident occurs. Here note alſo, that this exceſs of <hi>thickneſs</hi> in ſome places, is not only unneceſſarily paid for, but it helps forward the ruine of the reſt.</p>
+            <p>
+               <note place="margin">Mill'd-Lead for Co<g ref="char:EOLhyphen"/>verings Better.</note> Wherefore <hi>Mill'd-Lead,</hi> which is exactly <hi>equal,</hi> tho' no <hi>thicker</hi> than the <hi>thinner</hi> part of a <hi>Caſt-Sheet,</hi> muſt be allowed to be a <hi>better,</hi> and more du<g ref="char:EOLhyphen"/>rable <hi>Covering</hi> than <hi>Caſt-Lead.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſ. </seg>
+               </label> 
+               <hi>The</hi> Mill'd-Lead Company <hi>having in the Year</hi> 1678. <hi>made a Propoſal to the then</hi> Navy-Board, <hi>to make their Scuppers of</hi> Mill'd-Lead, <hi>one Mr.</hi> Parſons <hi>a</hi> Plumber <hi>they had employ'd in that Work, oppoſed it; pretending, That altho' their</hi> Caſt-Lead <hi>was not exactly</hi> equal, <hi>yet the</hi> inequality <hi>was ſo inconſiderable that the</hi> Mill'd-Lead <hi>Scuppers being propoſed at</hi> 4 <abbr>s</abbr> 
+               <hi>a hundred more than theirs, they would be much dearer to the King. The</hi> Board <hi>then asked him, What allowance of</hi> inequality <hi>he re<g ref="char:EOLhyphen"/>quired? He anſwer'd, Not above</hi> half-a-Pound <hi>in</hi> Ten: <hi>Whereupon they ordered each to make</hi> 36 <hi>Scuppers of three ſeveral ſizes and thickneſs,</hi> viz. <hi>of</hi> 8 <hi>pound,</hi> 10 <hi>pound, and</hi> 12 <hi>pound to the foot-ſquare; which caution to the</hi> Plumber, <hi>That his</hi> Lead <hi>ſhould not be</hi> thinner <hi>in the</hi> thinneſt parts <hi>than their Demand, as little</hi> thicker <hi>any where as he could: Which he undertook; and both ſides having ſent in their Scuppers, the</hi> Mill'd-Lead <hi>which could eaſily be conformable to any</hi> thickneſs <hi>deſired, weighed but</hi> 8 <hi>hundred,</hi> 1 <hi>quarter</hi> 26 <hi>pound; whereas the</hi> Caſt-Lead <hi>Scuppers weigh<g ref="char:EOLhyphen"/>ed</hi> 12 <hi>hundred</hi> 3 <hi>quarters</hi> 10 <hi>pound, about</hi> ⅓ <hi>part inſtead of</hi> 1/25 <hi>more: This ſo much
+<pb n="2" facs="tcp:179865:2" rendition="simple:additions"/>exceeding his <g ref="char:V">Ʋ</g>ndertaking, and he pretending careleſneſs of Servants, and other Ex<g ref="char:EOLhyphen"/>cuſes, the</hi> Board <hi>ordered a ſecond Trial upon (double the Number)</hi> 72 Scuppers; <hi>when he took to his aſſiſtance one Mr.</hi> Whitehall, <hi>another</hi> Maſter-Plumber, <hi>who made part thereof; and it cannot be imagined but theſe</hi> Plumbers <hi>now uſed all their Skill and Care; notwithſtanding which, the weight of their whole</hi> 72 <hi>was</hi> 25 <hi>hundred</hi> 1 <hi>quarter</hi> 12 <hi>pound; whereas the</hi> 72 Mill'd-Lead <hi>Scuppers weighed but</hi> 16 <hi>hundred</hi> 3 <hi>quarters</hi> 10 <hi>pound; about the ſame proportion with the former; which at</hi> 26 <abbr>s</abbr> 
+               <hi>per hundred</hi> (<hi>the</hi> Caſt-Lead <hi>Scuppers being then</hi> 22 <abbr>s</abbr>) <hi>was above</hi> 27 per Cent. <hi>cheaper to the King. This appears more at large in a</hi> Memorial <hi>preſented to the</hi> Navy-Board <hi>in</hi> May 1690. <hi>and Printed</hi> page 115. <hi>in a ſmall Book lately publiſhed, treating (amongſt other new Inventions and Improvements) of the</hi> Mill'd-Lead <hi>for</hi> Sheathing Ships, <hi>&amp;c. and its Excellency in preference to</hi> Caſt-Lead <hi>for all other purpoſes what<g ref="char:EOLhyphen"/>ſoever, and the</hi> Plumbers <hi>ſuggeſtions, decrying the ſame, therein proved, to be idle, ſcandalous, and falſe, as well as the Shipwrights.</hi>
+            </p>
+            <p>
+               <hi>Divers other</hi> Trials <hi>of other kinds were afterwards made by direction of the pre<g ref="char:EOLhyphen"/>ſent</hi> Navy-Board, <hi>with which they being farther ſatisfied, contracted for the</hi> Mill'd-Lead <hi>in general, for all Services of Their Majesties Yards; declaring in their In<g ref="char:EOLhyphen"/>ſtructions to the Officers, That they had (amongſt other Faults) found upon ſeveral</hi> Trials <hi>made, that the</hi> Caſt-Lead <hi>was ſo</hi> unequal <hi>and</hi> uncertain, <hi>they could not have what they demanded, nor depend thereon for Their Majesty's Service, as they could do upon the</hi> Mill'd-Lead; <hi>and therefore ordered them to demand that only for the future, laying their old</hi> Plumbers, <hi>their</hi> Lead, <hi>and</hi> Solder <hi>totally aſide.</hi>
+            </p>
+            <p>From the Second <hi>Axiom,</hi> and only thoſe two <hi>Trials</hi> above-mentioned, it plainly appears that the <hi>Plumbers</hi> (let them or their Friends pretend what they will) can<g ref="char:EOLhyphen"/>not Caſt within ⅓ <hi>equal</hi> to the Size given through the <hi>whole Sheet:</hi> Wherefore (it having been proved above, that <hi>Mill'd-Lead</hi> is for that reaſon at leaſt ⅓ better, and will in uſe go ⅓ farther) whatſoever the Price of <hi>Mill'd-Lead</hi> be leſs than ⅓ more than <hi>Caſt-Lead,</hi> it muſt be granted that <hi>Mill'd-Lead</hi> is ſo much the <hi>cheaper.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Mill'd-Lead</hi> for Co<g ref="char:EOLhyphen"/>verings Cheaper.</note> Now the Price of <hi>Mill'd-Lead,</hi> at the Rates above-ſuppoſed, being but about ⅕ more, the ſame is above 20 <hi>per Cent. cheaper,</hi> as well as better than <hi>Caſt-Lead,</hi> which was to be demonſtrated.</p>
+            <p>For 3 <hi>C.</hi> of <hi>Caſt-Lead</hi> at 13 <abbr>s</abbr> is 39 <abbr>s</abbr> and 2 <hi>C.</hi> of <hi>Mill'd-Lead</hi> at 16 <abbr>s</abbr> is but 32 <abbr>s</abbr> which being 7 <abbr>s</abbr> leſs, it is almoſt 22 <hi>per Cent.</hi> cheaper.</p>
+            <p>32 — 7 ∷ 100—21 87 ∶ Or, 21 <abbr>l</abbr> 17 <abbr>s</abbr> 6 <abbr>d</abbr>
+            </p>
+            <p>
+               <hi>But if ſome are unwilling to grant that</hi> Mill'd-Lead <hi>is better, and will go farther than</hi> Caſt-Lead, <hi>in ſo great a Degree as</hi> ⅓, <hi>here's Latitude enough, let them allow half as much, and take</hi> ⅙ <hi>or any Degree under</hi> ⅛ <hi>(the</hi> Plumbers <hi>uſual Price be<g ref="char:EOLhyphen"/>ing</hi> 14 <abbr>s</abbr> 
+               <hi>a hundred;) within which Limit, or Proportion of</hi> Inequality, <hi>ſure they will be ſatisfied that</hi> Mill'd Lead <hi>is enough better and cheaper (beſides the benefit of a more beautiful and lighter Covering) to recommend it to their <g ref="char:V">Ʋ</g>ſe, it being one conſiderable advantage alſo, that they are ſure they ſhall have the</hi> Mill'd-Lead <hi>equal ſmooth and ſound, and of what</hi> thickneſs <hi>they demand; whereas the</hi> Plumber <hi>can caſt but by gueſs, and that liable to concealed Blow-holes, and Sand-holes, as the</hi> Plumbers <hi>call them, and where they happen, muſt alſo haſten the decay; which holes the</hi> Mill <hi>opens, and enlarges ſo, that it diſcovers all the defects of Caſting, but hides none; tho 'tis falſely pretended it cloſes thoſe holes which the Sun opens again: and if the</hi> Plumber <hi>Casts ſo, as to bring the Charge leſs, or equal to the Price of the</hi> Mill'd-Lead, <hi>the Cuſtomer (if he carefully examines it) will find it to be ſo much</hi> thinner <hi>than the</hi> Mill'd-Lead <hi>in ſome places, as well as</hi> thicker <hi>in others, as to render that Covering at leaſt</hi> 20 per Cent. <hi>worſe; as is above demonſtrated.</hi>
+            </p>
+            <p>
+               <hi>As to the</hi> Plumber<hi>'s pretence, That their Covering being heavier, it will yield more Money again when both come to be ſtripp'd: It is not worth the anſwering, when it ſhall be conſidered, that Mr.</hi> Hale <hi>offers in his Advertiſement (Publiſhed by it ſelf, and Printed alſo in the Book above-mentioned,</hi> p. 93. <hi>to keep any</hi> Mill'd-Lead <hi>Co<g ref="char:EOLhyphen"/>vering, of</hi> 100 <abbr>l</abbr> 
+               <hi>Value, that he lays but of</hi> 7 <hi>pound to the Foot in good repair, for</hi> 41 <hi>Years (to name a Term certain and ſufficient, tho it muſt probably last much longer) for</hi> 5 <abbr>s</abbr> 
+               <hi>a Year: And that the different value of the Old</hi> Lead, <hi>after</hi> 41 <hi>Years (if the</hi> Caſt-Lead <hi>ſhould be ſuppoſed to lye ſo long) to be paid in ready Money is not worth
+<pb n="3" facs="tcp:179865:2" rendition="simple:additions"/>ſpeaking of, if no regard were had to the damage a Houſe may ſuſtain by the leaking of a</hi> Caſt-Lead <hi>Covering, and charge of patching it with</hi> Solder <hi>in the mean time.</hi>
+            </p>
+            <div type="part">
+               <head>Now as to the <hi>Mill'd-Lead</hi> Sheathing.</head>
+               <p>THE <hi>Antelope,</hi> a Merchant-man of about 600 Tun, Sheathed with <hi>Mill'd-Lead,</hi>
+                  <note place="margin">
+                     <hi>Mill'd-Lead</hi> Sheath<g ref="char:EOLhyphen"/>ing Better.</note> having been imployed in His Majeſty's Service this laſt Summer, had her Sheathing viewed at her return into the Dock by Mr. <hi>Shepheard,</hi> and other Merchants her Owners, who declared themſelves very well ſatisfied therewith; the ſame lying on very well, and firm, as at firſt doing, ſaving two or three ſmall Places, where the Anchor-fluke had torn it: To prevent which, for the future, it has been thought fit to ſheath over the Lead with Boards in the Wake of the Anchor and a-long about the Waters-edge, that Boats, or other Veſſels coming on Board, or lying by her ſides, may do the Lead-ſheathing no damage, altho' the Shipwright has carried his Wood-ſheathing lower than was neceſſary for that purpoſe (for Rea<g ref="char:EOLhyphen"/>ſons beſt known to himſelf) contrary to the Owners Order. There was alſo a place rubb'd off about two hands breadth on one ſide of the Keele, ſuppoſed to be done by an Anchor-ſtock, ſhe coming ſo often to an Anchor in this Service, that the ſheathing could not be liable to ſuffer ſo much damage perhaps in a whole <hi>Eaſt-India</hi> Voyage, as the Commander hath certified. And for her * <hi>Rudder-Irons,</hi>
+                  <note place="margin">The main reaſon of the different dura<g ref="char:EOLhyphen"/>tion and very ſhort laſting of ſome <hi>Rud<g ref="char:EOLhyphen"/>der-Irons</hi> over others muſt be the ſlight working, and purging 'em from their more groſs and earthy Parts with Fire and Hammer; for the Smith being paid by weight, will find tem<g ref="char:EOLhyphen"/>ptation to work 'em as ſlight as he can, ſeeing that the more labour and charge he's at, the leſs mo<g ref="char:EOLhyphen"/>ney he ſhall receive for his Work.</note> which were new put on with her ſheathing about 8 months before, ſome Ship<g ref="char:EOLhyphen"/>wrights, and their Friends, would have perſwaded them that they were eaten ſo very much that it was dangerous to ſend her to Sea again without ſhifting them, and that the Lead-Sheathing was the cauſe thereof; giving for Reaſons, that the Water paſſing by the ſides of the Ship, it was ſo tinged by the venomous qua<g ref="char:EOLhyphen"/>lity of the Lead-Sheathing, that making a kind of eddy or or dead Water at the <hi>Rudder,</hi> it did there eat and corrode the Irons in this extraordinary manner they talk of; to which, Mr. <hi>Hale</hi> being preſent, was deſired to give his Anſwer, but he told them, He thought it deſerved none, till they had given a better Reaſon then he had done already (namely the great variety and difference in the compoſition and working the <hi>Rudder-Irons</hi>) for their unconſtant and different du<g ref="char:EOLhyphen"/>ration, always known to have been before Lead-Sheathing was thought on, has been ſince, and ever will be upon all Ships ſheathed either way, or not ſheathed at all; and that their laſting has been as ſhort and unconſtant upon thoſe others, as theſe ſheathed with Lead, as he can prove if neceſſary, which effects ought to have been on all, as equal and conſtant as their cauſes are, if the ſheathing either way were concerned therein: Whereupon the Shipwrights Reaſons againſt the Lead-ſheath<g ref="char:EOLhyphen"/>ing, and for ſhifting the <hi>Rudder-Irons</hi> (which if they could have obtained upon this Ship, how cauſleſs ſoever, would have much countenanced their Clamour) ap<g ref="char:EOLhyphen"/>pearing very weak and groundleſs, Mr. <hi>Shepheard,</hi> with his Partners, in the pre<g ref="char:EOLhyphen"/>ſence of divers other Merchants, declar'd, That if ever he ſheathed another Ship it ſhould be with <hi>Mill'd-Lead,</hi> (this being the third they had applied this ſheathing to within this Twelve-month) and that this Ship (which was deſigned for a long Voyage) ſhould go to Sea again with the ſame <hi>Rudder-Irons</hi> without any amend<g ref="char:EOLhyphen"/>ment. Since which (notwithſtanding all the clamour and noiſe the Shipwrights make about this ſheathing's rubbing off, and eating the <hi>Rudder-Irons</hi>) one Mr. <hi>Haines</hi> Merchant hath lately ſheathed another Ship with it, called the <hi>Fortune,</hi> bound for <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uiney.</hi> Thus much, with what is proved more at large in the<note n="*" place="margin">In that Book it ap<g ref="char:EOLhyphen"/>pears that all Obje<g ref="char:EOLhyphen"/>ctions as to rubbing off by Cables lying on ground, <hi>&amp;c.</hi> upon <hi>5</hi> years Experience and about half a<g ref="char:EOLhyphen"/>ſoore Ships ſheathed, were removed to the Navy-Boards ſatis<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>action, who then contracted for the Lead-ſheathing; and, after that, this clamour about the <hi>Rudder-Irons</hi> (never heard of before) was ſtarted when they found the other would not do.</note> Book above-men<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oned, may ſufficiently ſatisfie the unprejudiced as to the <hi>Rudder-Irons;</hi> and the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heathing, being Metal which the Worm cannot enter, is a full Demonſtration that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is <hi>Mill'd-Lead</hi> is a better ſheathing againſt the Worm (the firſt and only thing in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ended by ſheathing) than the Wood ſheathing can be.</p>
+               <p>Now as to its cheapneſs,<note place="margin">Mill'd-Lead <hi>Sheath<g ref="char:EOLhyphen"/>ing above</hi> Cent. per Cent. <hi>Cheaper.</hi>
+                  </note> ſuppoſe an ordinary Wood ſheathing coſt 10 <abbr>d</abbr> a foot ſquare, and that two ſuch ſheathings be allowed to laſt 7 years with Graving once or twice a year; and that for a Ship of about 600 Tun (which contains about 5400 foot of ſheathing) but 40 <abbr>l</abbr> a year be allowed for her Graving, this, in 7 years time, with the firſt charge of thoſe two ſheathings, would amount to 730 <abbr>l</abbr>
+               </p>
+               <pb n="4" facs="tcp:179865:3" rendition="simple:additions"/>
+               <p>
+                  <note place="margin">
+                     <hi>Note.</hi> Nothing is re<g ref="char:EOLhyphen"/>quired under or over this Sheathing, the Plank being brimm'd and the Seams <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> caulk'd, and ſome long Briſtle-bruſhes on Board, to clean it once in two or three months, or as occa<g ref="char:EOLhyphen"/>ſion offers, which yet fouls not ſo much as a Wood-ſheathing does.</note>Suppoſe alſo that a <hi>Mill'd-Lead</hi> ſheathing would coſt 15 <abbr>d</abbr> a foot, and that one ſuch ſheathing be continued on but for the ſame term of 7 years, which (if the Ships Seams or Plank do not require its Stripping for other repairs) may laſt for any de<g ref="char:EOLhyphen"/>fect in the Sheathing it ſelf twice as long, or longer, (as Experience has ſufficiently ſhewn) with ſome ſmall repairs for accidental rubs, which, with a little quantity of the Lead and Nails reſerved on Board, any one may mend as opportunity offers. This 5400 Foot would coſt the Owner, with allowance of ¼ only part for the old ſheathing at ſtripping, but 253 <abbr>l</abbr> 2 <abbr>s</abbr> 6 <abbr>d</abbr> which would be 476 <abbr>l</abbr> 17 <abbr>s</abbr> 6 <abbr>d</abbr> ſaved in his Pocket out of his 730 <abbr>l</abbr> that the Wood ſheathing muſt have coſt him in theſe 7 years time, if the Graving upon ſuch a Ship had ſtood him in no more than 40 <abbr>l</abbr> a year, as is above ſuppoſed. Nay, if one ſuch Wood-ſheathing would laſt the whole 7 Years, ſup<g ref="char:EOLhyphen"/>poſe but 45 <abbr>l</abbr> a-year (which may be computed at much more) for the Graving, and the Lead-ſheathing will be ſtill above <hi>Cent.</hi> per <hi>Cent.</hi> cheaper, which was to be demonſtrated, there remaining 34 <abbr>l</abbr> to ſpare, which may probably be more than the Lead-ſheathing will require, to repair accidental rubbs all the time.</p>
+               <p>Beſides this, there are many other Advantages; for this Sheathing ſtiffens a Ship ſo, that ſhe will bear more Sail, and is an undeniable ſecurity againſt the Worm, without any hindrance to Sailing, which the great thickneſs and roughneſs of a Wood Sheathing muſt obſtruct.</p>
+               <p>And further, That Sheathing it ſelf is more deſtructive to the Plank, it being well known, that when one Plank or Board is doubled, or clapp'd cloſe, lying hot upon another, the undermoſt, in ſome time, will be doted, which in a Wood Sheathing muſt rot the Oakam alſo the ſooner, whereas a Lead Sheathing preſerves the Plank cool and ſound, and the Oakam, perhaps, twice as long.</p>
+               <p>☞ <hi>There is, beſides the conſtant Imployment of this</hi> Mill'd-Lead <hi>about Houſes, a Church built in</hi> Well-Cloſe, <hi>called the</hi> Danes Church, <hi>lately covered with it, notwithſtanding the</hi> Plumbers <hi>are as induſtrious (it being their Intereſt alſo) to raiſe Stories, and make as great a noiſe againſt this Lead, and as ſenſeleſs, as the Shipwrights</hi> do.</p>
+               <p>The <hi>Book</hi> above-mentioned may be had at the <hi>Bookſellers</hi> following, <hi>viz.</hi> At Mr. <hi>Henſman</hi>'s Shop in <hi>Westminſter-Hall,</hi> Mr. <hi>Dring</hi> at the <hi>Harrow</hi> and <hi>Crown</hi> next <hi>Cliffords-Inn</hi> in <hi>Fleetſtreet;</hi> The <hi>Harp</hi> in St. <hi>Paul</hi>'s Church-yard; The <hi>Leg</hi> and <hi>Star</hi> over againſt the <hi>Royal Exchange;</hi> And the <hi>Mill'd-Lead</hi> it ſelf of any thickneſs, from a Pound in a Foot, to 20 or more, for Lining of <hi>Casks</hi> or <hi>Boxes, Brewers Backs, Fiſhmongers, Diſtillers</hi> and <hi>Dairy Veſſels, Ciſterns, Gutters, Pipes, Crowning</hi> of <hi>Vaults</hi> to prevent <hi>Leaking,</hi> and for <hi>Covering</hi> of <hi>Signs</hi> to Paint on, as the <hi>Mill'd-Lead</hi> Sign is, and for Coffins, or any purpoſe whatſoever, where <hi>Sheet Lead</hi> may be uſed as well as <hi>Covering Houſes,</hi> and many other things that <hi>Cast-Lead</hi> cannot be applied to. This <hi>Lead</hi> is of the uſual breadth of 3½ Foot, and may be had above twice as long as any <hi>Plumber</hi> pretends to Caſt, if need require to ſave drips, and comply with the length of <hi>Coverings.</hi>
+                  <note place="margin">Theſe Rates are not raiſed, altho' now at the reprinting of this Demonſtration the Price of <hi>Pig-Lead</hi> is at leaſt <hi>30</hi>
+                     <abbr>s</abbr> a Fod<g ref="char:EOLhyphen"/>dar dearer than when theſe Rates were ſet.</note> The preſent Rates being for 6 <abbr>l</abbr> 
+                  <hi>per</hi> Foot, and all thicker at 16 <abbr>s</abbr> a hundred; and for each Pound in a Foot ſquare thinner 12 <abbr>d</abbr> a hundred more, at the <hi>Mill,</hi> or <hi>Water Carriage</hi> paid to any place upon the River about <hi>London,</hi> if the Quantity be conſiderable, but for ſmall quantities under a Tun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Cuſtomer pays Boat Hire, or in lieu of Carriage 6 <abbr>d</abbr> a hundred more at the <hi>Shop,</hi> and for odd Pounds under a Quarter 2 <abbr>d</abbr> and 2 <abbr>d</abbr> 
+                  <hi>half penny</hi> the thinner ſort, and <hi>Solder</hi> alſo at 6 <abbr>d</abbr> a Pound, which the <hi>Plumbers</hi> by Combination have hitherto kept up at 9 <abbr>d</abbr>
+               </p>
+               <p>At the <hi>Lead-Mill</hi> at <hi>Deptford,</hi> or at the <hi>Mill'd-Lead</hi> Sign in <hi>Aurange-street</hi> by <hi>Red-Lion-Square,</hi> where Mr. <hi>Hale</hi> now lives, who can furniſh the Cuſtomers with able <hi>Plumbers</hi> to work his <hi>Lead</hi> as there is occaſion.</p>
+               <p>
+                  <hi>Merchants that tranſport</hi> Sheet-Lead <hi>abroad, will doubtleſs find a better Market for this than the other; and if they, or any elſe, having occaſion for a quantity, ſhall think fit to ſend Piggs, or old Lead, into the Mill, they may, upon diſ<g ref="char:EOLhyphen"/>courſe with Mr.</hi> Hale, <hi>ſave ſomething farther conſiderable herein alſo.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <p>
+               <hi>This Printed Sheet may be had at Mr.</hi> Hale<hi>'s Houſe, the</hi> Lead-Mill, <hi>or at any the Bookſellers Shops above-named,</hi> Gratis.</p>
+         </div>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed</hi> November 20. 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
